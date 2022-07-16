@@ -1,0 +1,146 @@
+h1, h2, p {
+	font-family: "Arial", Helvetica, sans-serif;
+	color: #ffffff;
+}
+
+h1 {
+	font-size: 100px;
+	margin: 0 auto;
+	padding: 50px;
+	white-space: nowrap;
+	color: #ffffff;
+}
+
+h2 {
+	font-size: 50px;
+	margin: 0 auto;
+}
+
+body {
+	display: inline-block;
+	width: 100%;
+	margin: 0 auto;
+	background-color:  #0d0d0d;
+}
+
+
+
+.wrapper {
+	
+}
+
+.header {
+	background-color: #1a1a1a;
+	width: 100%;
+	text-align: center;
+	position: fixed;
+}
+
+
+.body-wrapper {
+	padding-top: 200px;
+}
+
+
+.ibreeily {
+	background-image: url('ibreeily.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	text-align: right;
+	overflow: auto;
+	background-size: cover;
+	
+}
+
+.a-text {
+	padding:35px;
+	float: right;
+	width: 50%;
+}
+
+
+
+.seeking {
+	background-image: url('seeking.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.j-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.craft {
+	background-image: url('craft.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.i-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
+
+
+
+.network {
+	background-image: url('network1.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.g-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
+
+
+
+.sync {
+	background-image: url('sync.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: right;
+	background-color: #000000;
+	overflow: auto;
+}
+
+.l-text {
+	padding:35px; 
+	float: right;
+	width: 50%;
+}
+
+
+
+.sen {
+	background-image: url('sen.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: left;
+	overflow: auto;
+}
+
+.k-text {
+	padding:35px;
+	float: left;
+	width: 50%;
+}
